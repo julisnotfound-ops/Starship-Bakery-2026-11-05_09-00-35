@@ -1455,3 +1455,19 @@ Importing 'GUID: 334b78d1df3c5884c9d8bb19674a79a2 - Path: Assets/Animations/Pitc
 Imported 'GUID: 334b78d1df3c5884c9d8bb19674a79a2' -> (Import Result ID: 'a391fdd0142a5c5b9aa6c9aef67008f5') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=65717f7abb0fe7e7986ff2ba0e0f8d5e DependenciesID=75c771ade9c341c2fb6f45a8e787bf6e StaticDependenciesID=dd6fcd7420641e896238b2169b6ae144 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 19.23 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 8683.
+Memory consumption went from 370.9 MB to 368.0 MB.
+Total: 246.777100 ms (FindLiveObjects: 16.077000 ms CreateObjectMapping: 5.864800 ms MarkObjects: 220.798700 ms  DeleteObjects: 1.404900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Editor is closing down
+AcceleratorClientConnectionCallback - disconnected - :0
+Curl error 42: Callback aborted
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0

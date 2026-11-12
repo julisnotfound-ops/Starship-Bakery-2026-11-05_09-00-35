@@ -220,3 +220,19 @@ Unloading 7512 unused Assets / (7.9 MB). Loaded Objects now: 8479.
 Memory consumption went from 365.5 MB to 357.6 MB.
 Total: 30.281900 ms (FindLiveObjects: 2.433400 ms CreateObjectMapping: 1.995000 ms MarkObjects: 18.834500 ms  DeleteObjects: 6.402500 ms)
 
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 15.22 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 8479.
+Memory consumption went from 357.6 MB to 354.7 MB.
+Total: 355.013500 ms (FindLiveObjects: 16.065700 ms CreateObjectMapping: 4.414000 ms MarkObjects: 330.057900 ms  DeleteObjects: 2.269900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Editor is closing down
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0
