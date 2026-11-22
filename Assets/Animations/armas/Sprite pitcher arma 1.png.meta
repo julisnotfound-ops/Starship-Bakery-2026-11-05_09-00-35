@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: ebc227b966299404b9778170b6ce3be0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8033607181768896377
+    second: Sprite pitcher arma 1_0
+  - first:
+      213: -5326537825325509503
+    second: Sprite pitcher arma 1_1
+  - first:
+      213: -412035088893147285
+    second: Sprite pitcher arma 1_2
+  - first:
+      213: -3624093389377459503
+    second: Sprite pitcher arma 1_3
+  - first:
+      213: -3406183858009040502
+    second: Sprite pitcher arma 1_4
+  - first:
+      213: -2356175082018991859
+    second: Sprite pitcher arma 1_5
+  - first:
+      213: 5526281378859348365
+    second: Sprite pitcher arma 1_6
+  - first:
+      213: -3578914964956988133
+    second: Sprite pitcher arma 1_7
+  - first:
+      213: -467634284979585197
+    second: Sprite pitcher arma 1_8
+  - first:
+      213: -8645279403776011073
+    second: Sprite pitcher arma 1_9
+  - first:
+      213: -6434630192027720621
+    second: Sprite pitcher arma 1_10
+  - first:
+      213: -1419595322080021021
+    second: Sprite pitcher arma 1_11
+  - first:
+      213: 528458262816443619
+    second: Sprite pitcher arma 1_12
+  - first:
+      213: -6118058005754991740
+    second: Sprite pitcher arma 1_13
+  - first:
+      213: -6479607864844451980
+    second: Sprite pitcher arma 1_14
+  - first:
+      213: -136126648113505327
+    second: Sprite pitcher arma 1_15
+  - first:
+      213: -6953032371028881441
+    second: Sprite pitcher arma 1_16
+  - first:
+      213: -4441395744995868837
+    second: Sprite pitcher arma 1_17
+  - first:
+      213: 378097035563623590
+    second: Sprite pitcher arma 1_18
+  - first:
+      213: -4606210804876724397
+    second: Sprite pitcher arma 1_19
+  - first:
+      213: -4386983978979419554
+    second: Sprite pitcher arma 1_20
+  - first:
+      213: -5954427822002818788
+    second: Sprite pitcher arma 1_21
+  - first:
+      213: 2927742842632215953
+    second: Sprite pitcher arma 1_22
+  - first:
+      213: 8922476780168587244
+    second: Sprite pitcher arma 1_23
+  - first:
+      213: -3109946337614921499
+    second: Sprite pitcher arma 1_24
+  - first:
+      213: -5470471818859267814
+    second: Sprite pitcher arma 1_25
+  - first:
+      213: -5093698946811723200
+    second: Sprite pitcher arma 1_26
+  - first:
+      213: 8505439294005701902
+    second: Sprite pitcher arma 1_27
+  - first:
+      213: 2172328160046779020
+    second: Sprite pitcher arma 1_28
+  - first:
+      213: -3082795748245243667
+    second: Sprite pitcher arma 1_29
+  - first:
+      213: 537035922210864670
+    second: Sprite pitcher arma 1_30
+  - first:
+      213: 7939795641080664475
+    second: Sprite pitcher arma 1_31
+  - first:
+      213: 6184509316301298837
+    second: Sprite pitcher arma 1_32
+  - first:
+      213: -6319914615858895296
+    second: Sprite pitcher arma 1_33
+  - first:
+      213: 4230684233272010130
+    second: Sprite pitcher arma 1_34
+  - first:
+      213: -6589576817231077896
+    second: Sprite pitcher arma 1_35
+  - first:
+      213: 5424439855611247892
+    second: Sprite pitcher arma 1_36
+  - first:
+      213: -6938042572376111205
+    second: Sprite pitcher arma 1_37
+  - first:
+      213: 8393414990621454234
+    second: Sprite pitcher arma 1_38
+  - first:
+      213: 6182619357054451746
+    second: Sprite pitcher arma 1_39
+  - first:
+      213: -2314785871134230941
+    second: Sprite pitcher arma 1_40
+  - first:
+      213: -4676553043080808793
+    second: Sprite pitcher arma 1_41
+  - first:
+      213: -2929552824533237493
+    second: Sprite pitcher arma 1_42
+  - first:
+      213: -6462974340032828122
+    second: Sprite pitcher arma 1_43
+  - first:
+      213: 2431035097777149765
+    second: Sprite pitcher arma 1_44
+  - first:
+      213: 8391538082405054689
+    second: Sprite pitcher arma 1_45
+  - first:
+      213: -3418543704891218718
+    second: Sprite pitcher arma 1_46
+  - first:
+      213: 85826611591982542
+    second: Sprite pitcher arma 1_47
+  - first:
+      213: 5717889997869360838
+    second: Sprite pitcher arma 1_48
+  - first:
+      213: 7206265065368673445
+    second: Sprite pitcher arma 1_49
+  - first:
+      213: -6289613242172459461
+    second: Sprite pitcher arma 1_50
+  - first:
+      213: 871219801673432122
+    second: Sprite pitcher arma 1_51
+  - first:
+      213: -9202818322125528614
+    second: Sprite pitcher arma 1_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1460
+        width: 255
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78053a105d4e28090800000000000000
+      internalID: -8033607181768896377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1463
+        width: 255
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1849acea1165416b0800000000000000
+      internalID: -5326537825325509503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1461
+        width: 265
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67078b0548284af0800000000000000
+      internalID: -412035088893147285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1460
+        width: 256
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daa05d7342a4bdc0800000000000000
+      internalID: -3624093389377459503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_4
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1452
+        width: 254
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8993bfe3ddcab0d0800000000000000
+      internalID: -3406183858009040502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_5
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1451
+        width: 252
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0191a71f3f2d4fd0800000000000000
+      internalID: -2356175082018991859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_7
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1460
+        width: 264
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1db8602dc3255ec0800000000000000
+      internalID: -3578914964956988133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_8
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1457
+        width: 255
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f7ffe6811a289f0800000000000000
+      internalID: -467634284979585197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_9
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1461
+        width: 254
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb41ee9df2cc50880800000000000000
+      internalID: -8645279403776011073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_10
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 1463
+        width: 252
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3542f27bee993b6a0800000000000000
+      internalID: -6434630192027720621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_11
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1461
+        width: 255
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e53d9e63959c4ce0800000000000000
+      internalID: -1419595322080021021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_12
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 1459
+        width: 256
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4bc97df5755700800000000000000
+      internalID: 528458262816443619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1054
+        width: 281
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b2dbb98aa481ba0800000000000000
+      internalID: -6118058005754991740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1050
+        width: 257
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f7e143afec316a0800000000000000
+      internalID: -6479607864844451980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_15
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1041
+        width: 257
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbdab6e8816c1ef0800000000000000
+      internalID: -136126648113505327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_16
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1042
+        width: 280
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf0805b5edd18f90800000000000000
+      internalID: -6953032371028881441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_17
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1039
+        width: 282
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ff698f91efc52c0800000000000000
+      internalID: -4441395744995868837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_18
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1036
+        width: 282
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e56720454f3500800000000000000
+      internalID: 378097035563623590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_19
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1031
+        width: 284
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357b1ce7da37310c0800000000000000
+      internalID: -4606210804876724397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1042
+        width: 280
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1a99705d4e13c0800000000000000
+      internalID: -4386983978979419554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_21
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 1039
+        width: 283
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11b1dc917f9d5da0800000000000000
+      internalID: -5954427822002818788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_22
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1036
+        width: 281
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d19c08a9e61a820800000000000000
+      internalID: 2927742842632215953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_23
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 1007
+        width: 270
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7ae96bb5103db70800000000000000
+      internalID: 8922476780168587244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_24
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 1007
+        width: 280
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e08feb784047d4d0800000000000000
+      internalID: -3109946337614921499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 654
+        width: 281
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19bb135ddaf414b0800000000000000
+      internalID: -5470471818859267814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 644
+        width: 270
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0428182abcb8f49b0800000000000000
+      internalID: -5093698946811723200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_27
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 641
+        width: 272
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0debd169f3690670800000000000000
+      internalID: 8505439294005701902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_28
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 636
+        width: 283
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8a2bb3f8a52e10800000000000000
+      internalID: 2172328160046779020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 639
+        width: 282
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8f1cea995b735d0800000000000000
+      internalID: -3082795748245243667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_30
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 639
+        width: 280
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb00f635fe37700800000000000000
+      internalID: 537035922210864670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_31
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 639
+        width: 289
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91dec79112df2e60800000000000000
+      internalID: 7939795641080664475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_33
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 602
+        width: 283
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0466ee624272b48a0800000000000000
+      internalID: -6319914615858895296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_34
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 606
+        width: 277
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295260125e866ba30800000000000000
+      internalID: 4230684233272010130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_35
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 606
+        width: 279
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fddacc3cce1d84a0800000000000000
+      internalID: -6589576817231077896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_36
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 604
+        width: 275
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dfd2b0f4b774b40800000000000000
+      internalID: 5424439855611247892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_37
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 589
+        width: 280
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b970cfc2a0f17bf90800000000000000
+      internalID: -6938042572376111205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 258
+        width: 255
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f2e68b6766b7470800000000000000
+      internalID: 8393414990621454234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 253
+        width: 255
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2204fae5c831dc550800000000000000
+      internalID: 6182619357054451746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_40
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 254
+        width: 255
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36673f3b38a30efd0800000000000000
+      internalID: -2314785871134230941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_41
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 246
+        width: 255
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a675e5e8cb891fb0800000000000000
+      internalID: -4676553043080808793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_42
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 214
+        width: 284
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0144fe3a332857d0800000000000000
+      internalID: -2929552824533237493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_43
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 243
+        width: 274
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62de0ed7417ee46a0800000000000000
+      internalID: -6462974340032828122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_45
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 249
+        width: 292
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e87ae8fc6bb47470800000000000000
+      internalID: 8391538082405054689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_47
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 222
+        width: 256
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd273839dae03100800000000000000
+      internalID: 85826611591982542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_48
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 212
+        width: 252
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c623cb88a60a5f40800000000000000
+      internalID: 5717889997869360838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_49
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 219
+        width: 262
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac5b9285ebc10460800000000000000
+      internalID: 7206265065368673445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_50
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 224
+        width: 255
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36b7bd741ec6b8a0800000000000000
+      internalID: -6289613242172459461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite pitcher arma 1_51
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 215
+        width: 262
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cf7003bc1371c00800000000000000
+      internalID: 871219801673432122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 60df1345d5d3ced43b0315c653a9d65f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite pitcher arma 1_0: -8033607181768896377
+      Sprite pitcher arma 1_1: -5326537825325509503
+      Sprite pitcher arma 1_10: -6434630192027720621
+      Sprite pitcher arma 1_11: -1419595322080021021
+      Sprite pitcher arma 1_12: 528458262816443619
+      Sprite pitcher arma 1_13: -6118058005754991740
+      Sprite pitcher arma 1_14: -6479607864844451980
+      Sprite pitcher arma 1_15: -136126648113505327
+      Sprite pitcher arma 1_16: -6953032371028881441
+      Sprite pitcher arma 1_17: -4441395744995868837
+      Sprite pitcher arma 1_18: 378097035563623590
+      Sprite pitcher arma 1_19: -4606210804876724397
+      Sprite pitcher arma 1_2: -412035088893147285
+      Sprite pitcher arma 1_20: -4386983978979419554
+      Sprite pitcher arma 1_21: -5954427822002818788
+      Sprite pitcher arma 1_22: 2927742842632215953
+      Sprite pitcher arma 1_23: 8922476780168587244
+      Sprite pitcher arma 1_24: -3109946337614921499
+      Sprite pitcher arma 1_25: -5470471818859267814
+      Sprite pitcher arma 1_26: -5093698946811723200
+      Sprite pitcher arma 1_27: 8505439294005701902
+      Sprite pitcher arma 1_28: 2172328160046779020
+      Sprite pitcher arma 1_29: -3082795748245243667
+      Sprite pitcher arma 1_3: -3624093389377459503
+      Sprite pitcher arma 1_30: 537035922210864670
+      Sprite pitcher arma 1_31: 7939795641080664475
+      Sprite pitcher arma 1_32: 6184509316301298837
+      Sprite pitcher arma 1_33: -6319914615858895296
+      Sprite pitcher arma 1_34: 4230684233272010130
+      Sprite pitcher arma 1_35: -6589576817231077896
+      Sprite pitcher arma 1_36: 5424439855611247892
+      Sprite pitcher arma 1_37: -6938042572376111205
+      Sprite pitcher arma 1_38: 8393414990621454234
+      Sprite pitcher arma 1_39: 6182619357054451746
+      Sprite pitcher arma 1_4: -3406183858009040502
+      Sprite pitcher arma 1_40: -2314785871134230941
+      Sprite pitcher arma 1_41: -4676553043080808793
+      Sprite pitcher arma 1_42: -2929552824533237493
+      Sprite pitcher arma 1_43: -6462974340032828122
+      Sprite pitcher arma 1_44: 2431035097777149765
+      Sprite pitcher arma 1_45: 8391538082405054689
+      Sprite pitcher arma 1_46: -3418543704891218718
+      Sprite pitcher arma 1_47: 85826611591982542
+      Sprite pitcher arma 1_48: 5717889997869360838
+      Sprite pitcher arma 1_49: 7206265065368673445
+      Sprite pitcher arma 1_5: -2356175082018991859
+      Sprite pitcher arma 1_50: -6289613242172459461
+      Sprite pitcher arma 1_51: 871219801673432122
+      Sprite pitcher arma 1_52: -9202818322125528614
+      Sprite pitcher arma 1_6: 5526281378859348365
+      Sprite pitcher arma 1_7: -3578914964956988133
+      Sprite pitcher arma 1_8: -467634284979585197
+      Sprite pitcher arma 1_9: -8645279403776011073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

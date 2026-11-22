@@ -498,35 +498,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pitcher sprite sheet_6
-      rect:
-        serializedVersion: 2
-        x: 1748
-        y: 1627
-        width: 35
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6bb445f8c9ffbbb70800000000000000
-      internalID: 8916000935194676150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: pitcher sprite sheet_7
       rect:
         serializedVersion: 2
-        x: 1758
-        y: 1460
-        width: 252
-        height: 364
+        x: 1744
+        y: 1455
+        width: 265
+        height: 369
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,35 +740,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pitcher sprite sheet_18
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 1257
-        width: 27
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d9f1c38ff089aa10800000000000000
-      internalID: 1921208550965770712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: pitcher sprite sheet_19
       rect:
         serializedVersion: 2
-        x: 1526
-        y: 1036
-        width: 253
-        height: 376
+        x: 1503
+        y: 1033
+        width: 278
+        height: 391
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,34 +762,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pitcher sprite sheet_20
-      rect:
-        serializedVersion: 2
-        x: 1802
-        y: 1264
-        width: 35
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 931161dc6bfc3c230800000000000000
-      internalID: 3657995706386747705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: pitcher sprite sheet_21
       rect:
         serializedVersion: 2
-        x: 1825
+        x: 1800
         y: 1031
-        width: 253
+        width: 278
         height: 368
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -960,28 +894,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pitcher sprite sheet_27
-      rect:
-        serializedVersion: 2
-        x: 1805
-        y: 1237
-        width: 30
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9be82f7cd76a649c0800000000000000
-      internalID: -3943281364560605511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: pitcher sprite sheet_28
       rect:
         serializedVersion: 2
@@ -1097,8 +1009,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1482
         y: 639
-        width: 253
-        height: 376
+        width: 276
+        height: 389
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1114,35 +1026,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pitcher sprite sheet_34
-      rect:
-        serializedVersion: 2
-        x: 1717
-        y: 866
-        width: 27
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1919d4d6433bf3780800000000000000
-      internalID: -8701038917303037551
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: pitcher sprite sheet_35
       rect:
         serializedVersion: 2
-        x: 1780
-        y: 646
-        width: 253
-        height: 369
+        x: 1782
+        y: 647
+        width: 297
+        height: 372
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1153,28 +1043,6 @@ TextureImporter:
       bones: []
       spriteID: 192d56886bca4d420800000000000000
       internalID: 2653935980400464529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_36
-      rect:
-        serializedVersion: 2
-        x: 2031
-        y: 873
-        width: 32
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5cc51d9ef99c2c850800000000000000
-      internalID: 6395896109479320773
       vertices: []
       indices: 
       edges: []
@@ -1285,28 +1153,6 @@ TextureImporter:
       bones: []
       spriteID: d1d03e6d94babaa30800000000000000
       internalID: 4227661008843509021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_42
-      rect:
-        serializedVersion: 2
-        x: 2030
-        y: 844
-        width: 25
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 188f7dcab85e91050800000000000000
-      internalID: 5771896785515051137
       vertices: []
       indices: 
       edges: []
@@ -1427,8 +1273,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1516
         y: 243
-        width: 255
-        height: 367
+        width: 270
+        height: 377
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1444,35 +1290,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pitcher sprite sheet_49
-      rect:
-        serializedVersion: 2
-        x: 1751
-        y: 437
-        width: 30
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 076f7853c065b4340800000000000000
-      internalID: 4849064034232170096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: pitcher sprite sheet_50
       rect:
         serializedVersion: 2
-        x: 1798
-        y: 249
-        width: 255
-        height: 355
+        x: 1797
+        y: 250
+        width: 299
+        height: 363
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1483,28 +1307,6 @@ TextureImporter:
       bones: []
       spriteID: e617206293bef6a40800000000000000
       internalID: 5363764311904907630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_51
-      rect:
-        serializedVersion: 2
-        x: 2045
-        y: 448
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3be0b9fa47e663680800000000000000
-      internalID: -8775705376443396429
       vertices: []
       indices: 
       edges: []
@@ -1615,710 +1417,6 @@ TextureImporter:
       bones: []
       spriteID: 654de8b7a1cb62ae0800000000000000
       internalID: -1574364197791280042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_57
-      rect:
-        serializedVersion: 2
-        x: 2030
-        y: 417
-        width: 27
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3038909a0226a130800000000000000
-      internalID: 3577584382763348026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_58
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 105
-        width: 187
-        height: 67
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a69e55f8520a005b0800000000000000
-      internalID: -5404143469665588886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_59
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 133
-        width: 38
-        height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68cd260ce06b76c80800000000000000
-      internalID: -8329488811324941178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_60
-      rect:
-        serializedVersion: 2
-        x: 315
-        y: 133
-        width: 42
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f3be01622d8a4480800000000000000
-      internalID: -8914157333629717512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_61
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 131
-        width: 37
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f0e66860b235e2b0800000000000000
-      internalID: -5555978832044433161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_62
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 129
-        width: 30
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d21fe95e0e176c660800000000000000
-      internalID: 7405731847996371245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_63
-      rect:
-        serializedVersion: 2
-        x: 427
-        y: 122
-        width: 148
-        height: 82
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e211c0940b0cc9eb0800000000000000
-      internalID: -4711679246764076754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_64
-      rect:
-        serializedVersion: 2
-        x: 558
-        y: 121
-        width: 41
-        height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 521a0bd83f07b3d90800000000000000
-      internalID: -7116970594772410075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_65
-      rect:
-        serializedVersion: 2
-        x: 821
-        y: 84
-        width: 10
-        height: 73
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c93b475ea5713a30800000000000000
-      internalID: 4193262119707949513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_66
-      rect:
-        serializedVersion: 2
-        x: 952
-        y: 77
-        width: 212
-        height: 61
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd790a0ca31896240800000000000000
-      internalID: 4785498168397699036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_67
-      rect:
-        serializedVersion: 2
-        x: 1259
-        y: 104
-        width: 32
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 824dd218616dfd7f0800000000000000
-      internalID: -585514034389986264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_68
-      rect:
-        serializedVersion: 2
-        x: 1292
-        y: 106
-        width: 44
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3bb256df38e20ecb0800000000000000
-      internalID: -4836814855369053261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_69
-      rect:
-        serializedVersion: 2
-        x: 1346
-        y: 108
-        width: 60
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2525a6f235700fc10800000000000000
-      internalID: 2085174681331716690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_70
-      rect:
-        serializedVersion: 2
-        x: 1393
-        y: 128
-        width: 13
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a6b1f27a562d7850800000000000000
-      internalID: 6376294817343846049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_71
-      rect:
-        serializedVersion: 2
-        x: 1409
-        y: 92
-        width: 145
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1d1e62d2091b9530800000000000000
-      internalID: 3862708605311393055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_72
-      rect:
-        serializedVersion: 2
-        x: 1842
-        y: 59
-        width: 178
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5dee2f318daf65300800000000000000
-      internalID: 240655436065468117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_73
-      rect:
-        serializedVersion: 2
-        x: 2186
-        y: 72
-        width: 1363
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0bf7d322349aa4c0800000000000000
-      internalID: -4275441953164231926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_74
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 60
-        width: 268
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 314d0d212ff243ab0800000000000000
-      internalID: -5029342167121734637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_75
-      rect:
-        serializedVersion: 2
-        x: 601
-        y: 93
-        width: 205
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6289f3d2c3b854e80800000000000000
-      internalID: -8194990856357308378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_76
-      rect:
-        serializedVersion: 2
-        x: 1146
-        y: 101
-        width: 113
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa2ee660371af6a90800000000000000
-      internalID: -7318453354052525398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_77
-      rect:
-        serializedVersion: 2
-        x: 1543
-        y: 90
-        width: 328
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a381d7811cf280c40800000000000000
-      internalID: 5478681453082253370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_78
-      rect:
-        serializedVersion: 2
-        x: 2688
-        y: 37
-        width: 11
-        height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: adf0f6de801c7a5f0800000000000000
-      internalID: -745414969219149862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_79
-      rect:
-        serializedVersion: 2
-        x: 2707
-        y: 33
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8f4214911bd716c0800000000000000
-      internalID: -4172625661190320246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_80
-      rect:
-        serializedVersion: 2
-        x: 2734
-        y: 31
-        width: 15
-        height: 55
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b8f48ac16590fc80800000000000000
-      internalID: -8290962666747004745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_81
-      rect:
-        serializedVersion: 2
-        x: 2752
-        y: 28
-        width: 17
-        height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 848bf4345c826df00800000000000000
-      internalID: 1141144383287965768
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_82
-      rect:
-        serializedVersion: 2
-        x: 2774
-        y: 31
-        width: 29
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a51fc1a6d5171940800000000000000
-      internalID: 5266702300814972328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_83
-      rect:
-        serializedVersion: 2
-        x: 2803
-        y: 18
-        width: 31
-        height: 56
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c636229b516ad780800000000000000
-      internalID: -8657500287744461111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_84
-      rect:
-        serializedVersion: 2
-        x: 2854
-        y: 29
-        width: 32
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 34786ea14f4b50fd0800000000000000
-      internalID: -2376294267851733181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_85
-      rect:
-        serializedVersion: 2
-        x: 2869
-        y: 20
-        width: 41
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 179dccbe0ff3cf130800000000000000
-      internalID: 3601824105970325873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_86
-      rect:
-        serializedVersion: 2
-        x: 2910
-        y: 21
-        width: 67
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3da5f005928a80560800000000000000
-      internalID: 7280253693034715859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_87
-      rect:
-        serializedVersion: 2
-        x: 2985
-        y: 22
-        width: 27
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de48453ecc7df4120800000000000000
-      internalID: 2400374401399031021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pitcher sprite sheet_88
-      rect:
-        serializedVersion: 2
-        x: 3010
-        y: 17
-        width: 114
-        height: 63
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d571b7f7ef5b6b940800000000000000
-      internalID: 5311632915195172701
       vertices: []
       indices: 
       edges: []

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 911730f2e48e8a144889ae657546dbce, type: 3}
+  m_Name: vaivolta
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  displayName: Arma
+  icon: {fileID: 0}
+  description: 
+  price: 0
+  pitcherAnimator: {fileID: 9100000, guid: 405923920336d3f48b9255367527cc6a, type: 2}
+  normal:
+    damage: 1
+    cooldown: 0.9
+    bulletSpeed: 10
+    projectiles: 1
+    spreadAngle: 0
+    stunDuration: 0
+    boomerang: 1
+    boomerangRange: 5
+    bulletPrefab: {fileID: -5380839933292680636, guid: 188d4b1b5d9991d43ab0a1174508923b, type: 3}
+    bulletScale: 1
+    tintBullet: 0
+    bulletColor: {r: 1, g: 1, b: 1, a: 1}
+  hasSpecial: 1
+  special:
+    damage: 2
+    cooldown: 4
+    bulletSpeed: 11
+    projectiles: 1
+    spreadAngle: 0
+    stunDuration: 0
+    boomerang: 1
+    boomerangRange: 5
+    bulletPrefab: {fileID: -5380839933292680636, guid: 188d4b1b5d9991d43ab0a1174508923b, type: 3}
+    bulletScale: 1
+    tintBullet: 0
+    bulletColor: {r: 1, g: 1, b: 1, a: 1}

@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: 959863ef9359d25478d029b4012c6048
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7840297117587326487
+    second: irene rosa sprite__0
+  - first:
+      213: 3015305552927604331
+    second: irene rosa sprite__1
+  - first:
+      213: -123876046617712030
+    second: irene rosa sprite__2
+  - first:
+      213: 8818002844287611033
+    second: irene rosa sprite__3
+  - first:
+      213: -4947243045563404432
+    second: irene rosa sprite__4
+  - first:
+      213: 3298913079231219390
+    second: irene rosa sprite__5
+  - first:
+      213: 3844065147217550129
+    second: irene rosa sprite__6
+  - first:
+      213: 1779586302422263194
+    second: irene rosa sprite__7
+  - first:
+      213: -5567909275203607962
+    second: irene rosa sprite__8
+  - first:
+      213: -4951377564469266627
+    second: irene rosa sprite__9
+  - first:
+      213: 2533109220639792721
+    second: irene rosa sprite__10
+  - first:
+      213: -7261188216552432410
+    second: irene rosa sprite__11
+  - first:
+      213: 8342936078605810959
+    second: irene rosa sprite__12
+  - first:
+      213: 7435296791891363795
+    second: irene rosa sprite__13
+  - first:
+      213: -8869740324645579251
+    second: irene rosa sprite__14
+  - first:
+      213: -4582111211034982370
+    second: irene rosa sprite__15
+  - first:
+      213: 7523372206240401696
+    second: irene rosa sprite__16
+  - first:
+      213: -3066976053746373949
+    second: irene rosa sprite__17
+  - first:
+      213: -9222737899618889229
+    second: irene rosa sprite__18
+  - first:
+      213: 8327124793766530907
+    second: irene rosa sprite__19
+  - first:
+      213: 2156600012292860768
+    second: irene rosa sprite__20
+  - first:
+      213: -8793788462353669239
+    second: irene rosa sprite__21
+  - first:
+      213: 6166342158886188583
+    second: irene rosa sprite__22
+  - first:
+      213: 3142101789848560895
+    second: irene rosa sprite__23
+  - first:
+      213: 4379652834155750471
+    second: irene rosa sprite__24
+  - first:
+      213: 142272900868811539
+    second: irene rosa sprite__25
+  - first:
+      213: 1575554443243094922
+    second: irene rosa sprite__26
+  - first:
+      213: 1733078741717321975
+    second: irene rosa sprite__27
+  - first:
+      213: -6277961955362601239
+    second: irene rosa sprite__28
+  - first:
+      213: 370931630427226524
+    second: irene rosa sprite__29
+  - first:
+      213: -7502386678854252353
+    second: irene rosa sprite__30
+  - first:
+      213: 3316261385754279652
+    second: irene rosa sprite__31
+  - first:
+      213: 3428040561038252911
+    second: irene rosa sprite__32
+  - first:
+      213: -7616781296734375367
+    second: irene rosa sprite__33
+  - first:
+      213: 5934732186232380601
+    second: irene rosa sprite__34
+  - first:
+      213: 1061383196665964946
+    second: irene rosa sprite__35
+  - first:
+      213: 6221132882052421044
+    second: irene rosa sprite__36
+  - first:
+      213: -7172194519774238969
+    second: irene rosa sprite__37
+  - first:
+      213: 3523014844785689094
+    second: irene rosa sprite__38
+  - first:
+      213: -2097995990358505096
+    second: irene rosa sprite__39
+  - first:
+      213: -1918060692807912686
+    second: irene rosa sprite__40
+  - first:
+      213: -2048568010520870157
+    second: irene rosa sprite__41
+  - first:
+      213: -826402824876543407
+    second: irene rosa sprite__42
+  - first:
+      213: 1450751281339910021
+    second: irene rosa sprite__43
+  - first:
+      213: 5042739596082804502
+    second: irene rosa sprite__44
+  - first:
+      213: 725156315764170830
+    second: irene rosa sprite__45
+  - first:
+      213: -3574939586619347000
+    second: irene rosa sprite__46
+  - first:
+      213: 6595031411949702917
+    second: irene rosa sprite__47
+  - first:
+      213: 3294724155597477337
+    second: irene rosa sprite__48
+  - first:
+      213: -6159706750144911966
+    second: irene rosa sprite__49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: irene rosa sprite__0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1404
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716cf4350b45ecc60800000000000000
+      internalID: 7840297117587326487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1406
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e3383bc6488d920800000000000000
+      internalID: 3015305552927604331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1406
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aeb255467e74ef0800000000000000
+      internalID: -123876046617712030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__3
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1403
+        width: 320
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990b52afdd6df5a70800000000000000
+      internalID: 8818002844287611033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__4
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1404
+        width: 320
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07feba369acd75bb0800000000000000
+      internalID: -4947243045563404432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__5
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1769
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6877897f718cd20800000000000000
+      internalID: 3298913079231219390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__6
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1404
+        width: 320
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b9c5972ecd85530800000000000000
+      internalID: 3844065147217550129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__7
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1408
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95a70b305c52b810800000000000000
+      internalID: 1779586302422263194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__8
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1408
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662e2e5a300dab2b0800000000000000
+      internalID: -5567909275203607962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__9
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1408
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3778f0b65c294bb0800000000000000
+      internalID: -4951377564469266627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__10
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1630
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e50894a69672320800000000000000
+      internalID: 2533109220639792721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__11
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1630
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecd329d9c31b3b90800000000000000
+      internalID: -7261188216552432410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__12
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1630
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0df615292018c370800000000000000
+      internalID: 8342936078605810959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 973
+        width: 336
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d74940d90b7f2760800000000000000
+      internalID: 7435296791891363795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 973
+        width: 336
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06da8b2b2a58e480800000000000000
+      internalID: -8869740324645579251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__15
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 974
+        width: 336
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18cce071221960c0800000000000000
+      internalID: -4582111211034982370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__16
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 974
+        width: 341
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029810a3923686860800000000000000
+      internalID: 7523372206240401696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__17
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 974
+        width: 341
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca61d55789ef65d0800000000000000
+      internalID: -3066976053746373949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__18
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 973
+        width: 341
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11fa49eb0420080800000000000000
+      internalID: -9222737899618889229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__19
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 973
+        width: 336
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4dc481e3ef8370800000000000000
+      internalID: 8327124793766530907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__20
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 973
+        width: 336
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ba157f848cded10800000000000000
+      internalID: 2156600012292860768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__21
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1361
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9832b772cff26f580800000000000000
+      internalID: -8793788462353669239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__22
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 973
+        width: 336
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7263de7d58f339550800000000000000
+      internalID: 6166342158886188583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__23
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 1361
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ea082eecfa9b20800000000000000
+      internalID: 3142101789848560895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__24
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 1132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e26b5c07a7cc30800000000000000
+      internalID: 4379652834155750471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 539
+        width: 328
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b2375137479f100800000000000000
+      internalID: 142272900868811539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 925
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a830bc12b6e7dd510800000000000000
+      internalID: 1575554443243094922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 538
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f887dfeee12d0810800000000000000
+      internalID: 1733078741717321975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__28
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 540
+        width: 328
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e602391dd230e8a0800000000000000
+      internalID: -6277961955362601239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__29
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 539
+        width: 322
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9142934a50d52500800000000000000
+      internalID: 370931630427226524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__30
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 538
+        width: 322
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8054f901b22e790800000000000000
+      internalID: -7502386678854252353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__31
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 925
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee7a38f82ab50e20800000000000000
+      internalID: 3316261385754279652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__32
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 540
+        width: 322
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd05c4ab8d29f20800000000000000
+      internalID: 3428040561038252911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__33
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 925
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932fe4c14c1cb4690800000000000000
+      internalID: -7616781296734375367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__34
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 530
+        width: 328
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc5575da776c5250800000000000000
+      internalID: 5934732186232380601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__35
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 916
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299e7d7d46acabe00800000000000000
+      internalID: 1061383196665964946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__36
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 530
+        width: 328
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b59c3f2567e55650800000000000000
+      internalID: 6221132882052421044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__37
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 530
+        width: 328
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7076adc851f377c90800000000000000
+      internalID: -7172194519774238969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 101
+        width: 311
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60201e9e55344e030800000000000000
+      internalID: 3523014844785689094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 103
+        width: 311
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879cc7e23cb62e2e0800000000000000
+      internalID: -2097995990358505096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__40
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 104
+        width: 311
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2137b8356fda165e0800000000000000
+      internalID: -1918060692807912686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__41
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 473
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2ccaa8f360293e0800000000000000
+      internalID: -2048568010520870157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__42
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 100
+        width: 339
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152badd52070884f0800000000000000
+      internalID: -826402824876543407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__43
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 103
+        width: 339
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58745bd9a9a122410800000000000000
+      internalID: 1450751281339910021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__44
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 103
+        width: 339
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617ff4fe1f86bf540800000000000000
+      internalID: 5042739596082804502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__45
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 99
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4021cfb3d5401a00800000000000000
+      internalID: 725156315764170830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__46
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 99
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf62160363436ec0800000000000000
+      internalID: -3574939586619347000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__47
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 95
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f0ecf8022468b50800000000000000
+      internalID: 6595031411949702917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__48
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 90
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5594fc92639bd20800000000000000
+      internalID: 3294724155597477337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irene rosa sprite__49
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a56905a853548aa0800000000000000
+      internalID: -6159706750144911966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      irene rosa sprite__0: 7840297117587326487
+      irene rosa sprite__1: 3015305552927604331
+      irene rosa sprite__10: 2533109220639792721
+      irene rosa sprite__11: -7261188216552432410
+      irene rosa sprite__12: 8342936078605810959
+      irene rosa sprite__13: 7435296791891363795
+      irene rosa sprite__14: -8869740324645579251
+      irene rosa sprite__15: -4582111211034982370
+      irene rosa sprite__16: 7523372206240401696
+      irene rosa sprite__17: -3066976053746373949
+      irene rosa sprite__18: -9222737899618889229
+      irene rosa sprite__19: 8327124793766530907
+      irene rosa sprite__2: -123876046617712030
+      irene rosa sprite__20: 2156600012292860768
+      irene rosa sprite__21: -8793788462353669239
+      irene rosa sprite__22: 6166342158886188583
+      irene rosa sprite__23: 3142101789848560895
+      irene rosa sprite__24: 4379652834155750471
+      irene rosa sprite__25: 142272900868811539
+      irene rosa sprite__26: 1575554443243094922
+      irene rosa sprite__27: 1733078741717321975
+      irene rosa sprite__28: -6277961955362601239
+      irene rosa sprite__29: 370931630427226524
+      irene rosa sprite__3: 8818002844287611033
+      irene rosa sprite__30: -7502386678854252353
+      irene rosa sprite__31: 3316261385754279652
+      irene rosa sprite__32: 3428040561038252911
+      irene rosa sprite__33: -7616781296734375367
+      irene rosa sprite__34: 5934732186232380601
+      irene rosa sprite__35: 1061383196665964946
+      irene rosa sprite__36: 6221132882052421044
+      irene rosa sprite__37: -7172194519774238969
+      irene rosa sprite__38: 3523014844785689094
+      irene rosa sprite__39: -2097995990358505096
+      irene rosa sprite__4: -4947243045563404432
+      irene rosa sprite__40: -1918060692807912686
+      irene rosa sprite__41: -2048568010520870157
+      irene rosa sprite__42: -826402824876543407
+      irene rosa sprite__43: 1450751281339910021
+      irene rosa sprite__44: 5042739596082804502
+      irene rosa sprite__45: 725156315764170830
+      irene rosa sprite__46: -3574939586619347000
+      irene rosa sprite__47: 6595031411949702917
+      irene rosa sprite__48: 3294724155597477337
+      irene rosa sprite__49: -6159706750144911966
+      irene rosa sprite__5: 3298913079231219390
+      irene rosa sprite__6: 3844065147217550129
+      irene rosa sprite__7: 1779586302422263194
+      irene rosa sprite__8: -5567909275203607962
+      irene rosa sprite__9: -4951377564469266627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
