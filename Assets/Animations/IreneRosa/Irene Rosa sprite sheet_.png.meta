@@ -1,0 +1,1337 @@
+fileFormatVersion: 2
+guid: ed1577a8445f32d44a67e473ac0247b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7810548847255403353
+    second: Irene Rosa sprite sheet__0
+  - first:
+      213: -4955440696991365893
+    second: Irene Rosa sprite sheet__1
+  - first:
+      213: 1785523755514140269
+    second: Irene Rosa sprite sheet__2
+  - first:
+      213: -4486417251027187347
+    second: Irene Rosa sprite sheet__3
+  - first:
+      213: 6564475150642607726
+    second: Irene Rosa sprite sheet__4
+  - first:
+      213: 4645351808693835894
+    second: Irene Rosa sprite sheet__5
+  - first:
+      213: -7476049851779614137
+    second: Irene Rosa sprite sheet__6
+  - first:
+      213: -7164813877900444375
+    second: Irene Rosa sprite sheet__7
+  - first:
+      213: -1070429083023658817
+    second: Irene Rosa sprite sheet__8
+  - first:
+      213: 5597409517520005764
+    second: Irene Rosa sprite sheet__9
+  - first:
+      213: 7797000413609731949
+    second: Irene Rosa sprite sheet__10
+  - first:
+      213: 4298685597557968609
+    second: Irene Rosa sprite sheet__11
+  - first:
+      213: 5103384002353368475
+    second: Irene Rosa sprite sheet__12
+  - first:
+      213: -6663075531850452292
+    second: Irene Rosa sprite sheet__13
+  - first:
+      213: -8533462960332327516
+    second: Irene Rosa sprite sheet__14
+  - first:
+      213: -5627150137334714076
+    second: Irene Rosa sprite sheet__15
+  - first:
+      213: -6321066251763297656
+    second: Irene Rosa sprite sheet__16
+  - first:
+      213: -7479705041802260329
+    second: Irene Rosa sprite sheet__17
+  - first:
+      213: -4513955680637544136
+    second: Irene Rosa sprite sheet__18
+  - first:
+      213: 8013310700973167230
+    second: Irene Rosa sprite sheet__19
+  - first:
+      213: 4409869575372342919
+    second: Irene Rosa sprite sheet__20
+  - first:
+      213: 179541434757796866
+    second: Irene Rosa sprite sheet__21
+  - first:
+      213: -8917990685780479710
+    second: Irene Rosa sprite sheet__22
+  - first:
+      213: -2243415913929730017
+    second: Irene Rosa sprite sheet__23
+  - first:
+      213: -98972820183991992
+    second: Irene Rosa sprite sheet__24
+  - first:
+      213: 4623742680439688932
+    second: Irene Rosa sprite sheet__25
+  - first:
+      213: 198508176619469739
+    second: Irene Rosa sprite sheet__26
+  - first:
+      213: -1694422490713763384
+    second: Irene Rosa sprite sheet__27
+  - first:
+      213: -8035592496044584464
+    second: Irene Rosa sprite sheet__28
+  - first:
+      213: -4038009527111471934
+    second: Irene Rosa sprite sheet__29
+  - first:
+      213: -6729869815729816097
+    second: Irene Rosa sprite sheet__30
+  - first:
+      213: -4938599645802386497
+    second: Irene Rosa sprite sheet__31
+  - first:
+      213: -4338038826966797561
+    second: Irene Rosa sprite sheet__32
+  - first:
+      213: -1567331775160455138
+    second: Irene Rosa sprite sheet__33
+  - first:
+      213: 367369903404978137
+    second: Irene Rosa sprite sheet__34
+  - first:
+      213: -8709260887206165839
+    second: Irene Rosa sprite sheet__35
+  - first:
+      213: -8511844792314922548
+    second: Irene Rosa sprite sheet__36
+  - first:
+      213: -2296796956313402546
+    second: Irene Rosa sprite sheet__37
+  - first:
+      213: 2635734884022010233
+    second: Irene Rosa sprite sheet__38
+  - first:
+      213: -7803300901107173927
+    second: Irene Rosa sprite sheet__39
+  - first:
+      213: 185606571092605540
+    second: Irene Rosa sprite sheet__40
+  - first:
+      213: -2280997150113732401
+    second: Irene Rosa sprite sheet__41
+  - first:
+      213: 2606911529073655147
+    second: Irene Rosa sprite sheet__42
+  - first:
+      213: 271596535960745604
+    second: Irene Rosa sprite sheet__43
+  - first:
+      213: 7238519353947791312
+    second: Irene Rosa sprite sheet__44
+  - first:
+      213: 3665409534027892830
+    second: Irene Rosa sprite sheet__45
+  - first:
+      213: -1199598516502709291
+    second: Irene Rosa sprite sheet__46
+  - first:
+      213: 2154690320077907977
+    second: Irene Rosa sprite sheet__47
+  - first:
+      213: -8100674088886478988
+    second: Irene Rosa sprite sheet__48
+  - first:
+      213: 4646036322937813460
+    second: Irene Rosa sprite sheet__49
+  - first:
+      213: 5010557710701959350
+    second: Irene Rosa sprite sheet__50
+  - first:
+      213: 2204054724513873118
+    second: Irene Rosa sprite sheet__51
+  - first:
+      213: 6913678886945094279
+    second: Irene Rosa sprite sheet__52
+  - first:
+      213: 1058417824879929432
+    second: Irene Rosa sprite sheet__53
+  - first:
+      213: -2585713109339742940
+    second: Irene Rosa sprite sheet__54
+  - first:
+      213: -6081121695494795885
+    second: Irene Rosa sprite sheet__55
+  - first:
+      213: 1135244252201204577
+    second: Irene Rosa sprite sheet__56
+  - first:
+      213: 8354698144264929306
+    second: Irene Rosa sprite sheet__57
+  - first:
+      213: 8028759251404644655
+    second: Irene Rosa sprite sheet__58
+  - first:
+      213: -7046442305597375221
+    second: Irene Rosa sprite sheet__59
+  - first:
+      213: -7637677517859855111
+    second: Irene Rosa sprite sheet__60
+  - first:
+      213: -1600212139119857459
+    second: Irene Rosa sprite sheet__61
+  - first:
+      213: 1097776937981235770
+    second: Irene Rosa sprite sheet__62
+  - first:
+      213: 818728537592112340
+    second: Irene Rosa sprite sheet__63
+  - first:
+      213: -4036322027792888896
+    second: Irene Rosa sprite sheet__64
+  - first:
+      213: 1996008379655573777
+    second: Irene Rosa sprite sheet__65
+  - first:
+      213: 7638438056276713308
+    second: Irene Rosa sprite sheet__66
+  - first:
+      213: 2526467118578059185
+    second: Irene Rosa sprite sheet__67
+  - first:
+      213: 8627690907763185589
+    second: Irene Rosa sprite sheet__68
+  - first:
+      213: -5132552587042534021
+    second: Irene Rosa sprite sheet__69
+  - first:
+      213: -6632946524431508929
+    second: Irene Rosa sprite sheet__70
+  - first:
+      213: -4243903321985032852
+    second: Irene Rosa sprite sheet__71
+  - first:
+      213: -6389656475932918420
+    second: Irene Rosa sprite sheet__72
+  - first:
+      213: 120397860423905561
+    second: Irene Rosa sprite sheet__73
+  - first:
+      213: -2282208928623242322
+    second: Irene Rosa sprite sheet__74
+  - first:
+      213: 5295807612685415217
+    second: Irene Rosa sprite sheet__75
+  - first:
+      213: 6725636102156178026
+    second: Irene Rosa sprite sheet__76
+  - first:
+      213: 1333125603358256167
+    second: Irene Rosa sprite sheet__77
+  - first:
+      213: -2949926746017565511
+    second: Irene Rosa sprite sheet__78
+  - first:
+      213: -131289809475326144
+    second: Irene Rosa sprite sheet__79
+  - first:
+      213: -2328603217159083248
+    second: Irene Rosa sprite sheet__80
+  - first:
+      213: -3141915603706090169
+    second: Irene Rosa sprite sheet__81
+  - first:
+      213: 3104994105930639226
+    second: Irene Rosa sprite sheet__82
+  - first:
+      213: -3810013726498571976
+    second: Irene Rosa sprite sheet__83
+  - first:
+      213: -5389520737794017743
+    second: Irene Rosa sprite sheet__84
+  - first:
+      213: -3072496223328509061
+    second: Irene Rosa sprite sheet__85
+  - first:
+      213: 3019409475121813703
+    second: Irene Rosa sprite sheet__86
+  - first:
+      213: 2309000859368080475
+    second: Irene Rosa sprite sheet__87
+  - first:
+      213: 1412510894568957194
+    second: Irene Rosa sprite sheet__88
+  - first:
+      213: 8990853892942580107
+    second: Irene Rosa sprite sheet__89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1404
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4418a943b5b9390800000000000000
+      internalID: -7810548847255403353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1406
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4c05ee0fcba3bb0800000000000000
+      internalID: -4955440696991365893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1406
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d661171456477c810800000000000000
+      internalID: 1785523755514140269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__3
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1403
+        width: 320
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69075eb74b0db1c0800000000000000
+      internalID: -4486417251027187347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__4
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1404
+        width: 320
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e667ee29e53b91b50800000000000000
+      internalID: 6564475150642607726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__6
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1404
+        width: 320
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a7095054cbf3890800000000000000
+      internalID: -7476049851779614137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__7
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1408
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d74f52db7719c90800000000000000
+      internalID: -7164813877900444375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__8
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1408
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0b02d9b621521f0800000000000000
+      internalID: -1070429083023658817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__9
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 1408
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aab22cc4efdad40800000000000000
+      internalID: 5597409517520005764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 973
+        width: 336
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2f4743b100883a0800000000000000
+      internalID: -6663075531850452292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 973
+        width: 336
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5307956ac039980800000000000000
+      internalID: -8533462960332327516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__15
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 974
+        width: 336
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421bf5693c858e1b0800000000000000
+      internalID: -5627150137334714076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__16
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 974
+        width: 341
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88250f50cbf0748a0800000000000000
+      internalID: -6321066251763297656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__17
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 974
+        width: 341
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7909da6c4efb23890800000000000000
+      internalID: -7479705041802260329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__18
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 973
+        width: 341
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8391eb379353b51c0800000000000000
+      internalID: -4513955680637544136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__19
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 973
+        width: 336
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72975e40aff43f60800000000000000
+      internalID: 8013310700973167230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__20
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 972
+        width: 342
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7860fd9a301033d30800000000000000
+      internalID: 4409869575372342919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__22
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 973
+        width: 341
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221ffc788beec3480800000000000000
+      internalID: -8917990685780479710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 539
+        width: 331
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee8b606875da2040800000000000000
+      internalID: 4623742680439688932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 538
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d29dd8b33c78e0800000000000000
+      internalID: -1694422490713763384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__28
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 540
+        width: 328
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d7710337db7090800000000000000
+      internalID: -8035592496044584464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__29
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 539
+        width: 322
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cca0e8babb16f7c0800000000000000
+      internalID: -4038009527111471934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__30
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 538
+        width: 334
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddfcc81f03ba92a0800000000000000
+      internalID: -6729869815729816097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__32
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 540
+        width: 332
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703bac8bba03cc3c0800000000000000
+      internalID: -4338038826966797561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__34
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 530
+        width: 331
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8f911bf8291500800000000000000
+      internalID: 367369903404978137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__36
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 530
+        width: 328
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc97fc2524adfd980800000000000000
+      internalID: -8511844792314922548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__37
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 530
+        width: 328
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43cdb156532020e0800000000000000
+      internalID: -2296796956313402546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 101
+        width: 311
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971cc3c89e2049420800000000000000
+      internalID: 2635734884022010233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 103
+        width: 311
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d575029c2b15b390800000000000000
+      internalID: -7803300901107173927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__40
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 104
+        width: 337
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46af3f96138639200800000000000000
+      internalID: 185606571092605540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__42
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 101
+        width: 339
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d3e43493c9d2420800000000000000
+      internalID: 2606911529073655147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__43
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 103
+        width: 339
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ba284c97e4c300800000000000000
+      internalID: 271596535960745604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__44
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 82
+        width: 339
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df19d74003647460800000000000000
+      internalID: 7238519353947791312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__45
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 97
+        width: 317
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5800101d862ed230800000000000000
+      internalID: 3665409534027892830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__46
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 99
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db35c6418b2a5fe0800000000000000
+      internalID: -1199598516502709291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__47
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 95
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90867391e6ff6ed10800000000000000
+      internalID: 2154690320077907977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__48
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 90
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477d5bad5df949f80800000000000000
+      internalID: -8100674088886478988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__67
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 59
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7cc836570df0320800000000000000
+      internalID: 2526467118578059185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irene Rosa sprite sheet__79
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 31
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f28972d909d2ef0800000000000000
+      internalID: -131289809475326144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c9ed1e8cd2125d74ea31b8725e47d8e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Irene Rosa sprite sheet__0: -7810548847255403353
+      Irene Rosa sprite sheet__1: -4955440696991365893
+      Irene Rosa sprite sheet__10: 7797000413609731949
+      Irene Rosa sprite sheet__11: 4298685597557968609
+      Irene Rosa sprite sheet__12: 5103384002353368475
+      Irene Rosa sprite sheet__13: -6663075531850452292
+      Irene Rosa sprite sheet__14: -8533462960332327516
+      Irene Rosa sprite sheet__15: -5627150137334714076
+      Irene Rosa sprite sheet__16: -6321066251763297656
+      Irene Rosa sprite sheet__17: -7479705041802260329
+      Irene Rosa sprite sheet__18: -4513955680637544136
+      Irene Rosa sprite sheet__19: 8013310700973167230
+      Irene Rosa sprite sheet__2: 1785523755514140269
+      Irene Rosa sprite sheet__20: 4409869575372342919
+      Irene Rosa sprite sheet__21: 179541434757796866
+      Irene Rosa sprite sheet__22: -8917990685780479710
+      Irene Rosa sprite sheet__23: -2243415913929730017
+      Irene Rosa sprite sheet__24: -98972820183991992
+      Irene Rosa sprite sheet__25: 4623742680439688932
+      Irene Rosa sprite sheet__26: 198508176619469739
+      Irene Rosa sprite sheet__27: -1694422490713763384
+      Irene Rosa sprite sheet__28: -8035592496044584464
+      Irene Rosa sprite sheet__29: -4038009527111471934
+      Irene Rosa sprite sheet__3: -4486417251027187347
+      Irene Rosa sprite sheet__30: -6729869815729816097
+      Irene Rosa sprite sheet__31: -4938599645802386497
+      Irene Rosa sprite sheet__32: -4338038826966797561
+      Irene Rosa sprite sheet__33: -1567331775160455138
+      Irene Rosa sprite sheet__34: 367369903404978137
+      Irene Rosa sprite sheet__35: -8709260887206165839
+      Irene Rosa sprite sheet__36: -8511844792314922548
+      Irene Rosa sprite sheet__37: -2296796956313402546
+      Irene Rosa sprite sheet__38: 2635734884022010233
+      Irene Rosa sprite sheet__39: -7803300901107173927
+      Irene Rosa sprite sheet__4: 6564475150642607726
+      Irene Rosa sprite sheet__40: 185606571092605540
+      Irene Rosa sprite sheet__41: -2280997150113732401
+      Irene Rosa sprite sheet__42: 2606911529073655147
+      Irene Rosa sprite sheet__43: 271596535960745604
+      Irene Rosa sprite sheet__44: 7238519353947791312
+      Irene Rosa sprite sheet__45: 3665409534027892830
+      Irene Rosa sprite sheet__46: -1199598516502709291
+      Irene Rosa sprite sheet__47: 2154690320077907977
+      Irene Rosa sprite sheet__48: -8100674088886478988
+      Irene Rosa sprite sheet__49: 4646036322937813460
+      Irene Rosa sprite sheet__5: 4645351808693835894
+      Irene Rosa sprite sheet__50: 5010557710701959350
+      Irene Rosa sprite sheet__51: 2204054724513873118
+      Irene Rosa sprite sheet__52: 6913678886945094279
+      Irene Rosa sprite sheet__53: 1058417824879929432
+      Irene Rosa sprite sheet__54: -2585713109339742940
+      Irene Rosa sprite sheet__55: -6081121695494795885
+      Irene Rosa sprite sheet__56: 1135244252201204577
+      Irene Rosa sprite sheet__57: 8354698144264929306
+      Irene Rosa sprite sheet__58: 8028759251404644655
+      Irene Rosa sprite sheet__59: -7046442305597375221
+      Irene Rosa sprite sheet__6: -7476049851779614137
+      Irene Rosa sprite sheet__60: -7637677517859855111
+      Irene Rosa sprite sheet__61: -1600212139119857459
+      Irene Rosa sprite sheet__62: 1097776937981235770
+      Irene Rosa sprite sheet__63: 818728537592112340
+      Irene Rosa sprite sheet__64: -4036322027792888896
+      Irene Rosa sprite sheet__65: 1996008379655573777
+      Irene Rosa sprite sheet__66: 7638438056276713308
+      Irene Rosa sprite sheet__67: 2526467118578059185
+      Irene Rosa sprite sheet__68: 8627690907763185589
+      Irene Rosa sprite sheet__69: -5132552587042534021
+      Irene Rosa sprite sheet__7: -7164813877900444375
+      Irene Rosa sprite sheet__70: -6632946524431508929
+      Irene Rosa sprite sheet__71: -4243903321985032852
+      Irene Rosa sprite sheet__72: -6389656475932918420
+      Irene Rosa sprite sheet__73: 120397860423905561
+      Irene Rosa sprite sheet__74: -2282208928623242322
+      Irene Rosa sprite sheet__75: 5295807612685415217
+      Irene Rosa sprite sheet__76: 6725636102156178026
+      Irene Rosa sprite sheet__77: 1333125603358256167
+      Irene Rosa sprite sheet__78: -2949926746017565511
+      Irene Rosa sprite sheet__79: -131289809475326144
+      Irene Rosa sprite sheet__8: -1070429083023658817
+      Irene Rosa sprite sheet__80: -2328603217159083248
+      Irene Rosa sprite sheet__81: -3141915603706090169
+      Irene Rosa sprite sheet__82: 3104994105930639226
+      Irene Rosa sprite sheet__83: -3810013726498571976
+      Irene Rosa sprite sheet__84: -5389520737794017743
+      Irene Rosa sprite sheet__85: -3072496223328509061
+      Irene Rosa sprite sheet__86: 3019409475121813703
+      Irene Rosa sprite sheet__87: 2309000859368080475
+      Irene Rosa sprite sheet__88: 1412510894568957194
+      Irene Rosa sprite sheet__89: 8990853892942580107
+      Irene Rosa sprite sheet__9: 5597409517520005764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

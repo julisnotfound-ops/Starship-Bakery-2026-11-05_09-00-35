@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: c4ecec2303f2b5b4a915ce760d8a2434
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3482140259525517243
+    second: comidas_0
+  - first:
+      213: -666746767296781146
+    second: comidas_1
+  - first:
+      213: 8161298657803282348
+    second: comidas_2
+  - first:
+      213: 4831339930881887665
+    second: comidas_3
+  - first:
+      213: -4675748135678625151
+    second: comidas_4
+  - first:
+      213: -2657041134861847120
+    second: comidas_5
+  - first:
+      213: -9032732857352159140
+    second: comidas_6
+  - first:
+      213: -7651184136376012400
+    second: comidas_7
+  - first:
+      213: 1506146541459547254
+    second: comidas_8
+  - first:
+      213: -277308900348523405
+    second: comidas_9
+  - first:
+      213: -1542672985937349351
+    second: comidas_10
+  - first:
+      213: 4591133183568755818
+    second: comidas_11
+  - first:
+      213: -2853656350117322819
+    second: comidas_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: comidas_0
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1144
+        width: 462
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54025e412e3fcafc0800000000000000
+      internalID: -3482140259525517243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comidas_5
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1141
+        width: 116
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b575fa5a2b402bd0800000000000000
+      internalID: -2657041134861847120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comidas_6
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1043
+        width: 328
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50868ed25945a280800000000000000
+      internalID: -9032732857352159140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comidas_10
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 981
+        width: 342
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915fc9cb713579ae0800000000000000
+      internalID: -1542672985937349351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5148a79b5a6bdd4595602a7afb0a491
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      comidas_0: -3482140259525517243
+      comidas_1: -666746767296781146
+      comidas_10: -1542672985937349351
+      comidas_11: 4591133183568755818
+      comidas_12: -2853656350117322819
+      comidas_2: 8161298657803282348
+      comidas_3: 4831339930881887665
+      comidas_4: -4675748135678625151
+      comidas_5: -2657041134861847120
+      comidas_6: -9032732857352159140
+      comidas_7: -7651184136376012400
+      comidas_8: 1506146541459547254
+      comidas_9: -277308900348523405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d7a6462e1ad1943a57f2881942a538, type: 3}
+  m_Name: Docinho
+  m_EditorClassIdentifier: Assembly-CSharp::OrderItem
+  displayName: Item
+  icon: {fileID: -1542672985937349351, guid: c4ecec2303f2b5b4a915ce760d8a2434, type: 3}

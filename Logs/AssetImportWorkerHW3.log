@@ -1,0 +1,1282 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-LENOVO" at "2026-11-21T20:56:19.0558162Z"
+Built from '6000.6/respin/6000.6.0f1-fa21a270ab12' branch; Version is '6000.6.0f1 (f7f8ed4d1e24) revision 16251117'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26300) Professional' Language: 'pt' Physical Memory: 7530 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-11-21T20:56:19Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 8756, path: "C:/Users/LENOVO/Downloads/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              c9ebae9352c34a6a93ad152a5bf1691e
+  Correlation Id:          044aed5d5da2d5a593c647c992233d14
+  External correlation Id: 5261761864239200944
+  Machine Id:              NXWFouTafbvlOHrb+H6R4Ohe+Es=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-LENOVO" (connect: 0.00s, validation: 0.02s, handshake: 0.35s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-LENOVO-notifications" at "2026-11-21T20:56:19.4236476Z"
+[Licensing::Module] Licensing Background thread has ended after 0.37s
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW3
+-projectPath
+C:/Users/LENOVO/Documents/Starship-Bakery-2026-11-05_09-00-35
+-logFile
+Logs/AssetImportWorkerHW3.log
+-srvPort
+58269
+-parentPid
+11284
+-analyticsCloudUserId
+4674245801524
+-analyticsCloudProjectId
+86786ba3-9785-476e-b842-5b8fccef15d6
+-analyticsLocalProjectId
+1a931d9ca6ce48640bfd9b36c1843352
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+cb736a40e9b230ebfe64490742c6789b37e5b134
+-cbmMachineId
+NXWFouTafbvlOHrb+H6R4Ohe+Es=
+-licensingIpc
+LicenseClient-LENOVO
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/LENOVO/Documents/Starship-Bakery-2026-11-05_09-00-35
+C:/Users/LENOVO/Documents/Starship-Bakery-2026-11-05_09-00-35
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [23868]  Target information:
+
+Player connection [23868]  * "[IP] 192.168.1.21 [Port] 0 [Flags] 2 [Guid] 758199594 [EditorId] 758199594 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2NVMMMP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23868] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [23868] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: ada298150c334a74c948f0dfdc116686
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: true
+  - Service working directory: Library/DataStore/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 37.10 ms, found 5 plugins.
+Initialize engine version: 6000.6.0f1 (f7f8ed4d1e24)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/LENOVO/Documents/Starship-Bakery-2026-11-05_09-00-35/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        AMD Radeon(TM) Graphics (ID=0x164c)
+    Vendor:          ATI
+    VRAM:            3765 MB
+    App VRAM Budget: 3835 MB
+    Driver:          27.20.14016.13
+    Unified Memory Architecture
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010996 seconds.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.241 seconds
+Domain Reload Profiling: 2703ms
+	BeginReloadAssembly (372ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (11ms)
+	RebuildNativeTypeToScriptingClass (36ms)
+	initialDomainReloadingComplete (218ms)
+	LoadAllAssembliesAndSetupDomain (824ms)
+		LoadAssemblies (365ms)
+		TypeCache.Refresh (522ms)
+			TypeCache.ScanAssembly (471ms)
+		AnalyzeDomain (4ms)
+	FinalizeReload (1243ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (3ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			BeforeProcessingInitializeOnLoad (183ms)
+			ProcessInitializeOnLoadAttributes (164ms)
+			ProcessInitializeOnLoadMethodAttributes (696ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674245801524-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 4.07 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 3.40 ms, found 5 plugins.
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.458 seconds
+Domain Reload Profiling: 3743ms
+	BeginReloadAssembly (344ms)
+		DisableScriptedObjects (17ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (12ms)
+	RebuildNativeTypeToScriptingClass (26ms)
+	initialDomainReloadingComplete (143ms)
+	LoadAllAssembliesAndSetupDomain (1758ms)
+		LoadAssemblies (1110ms)
+		TypeCache.Refresh (375ms)
+			TypeCache.ScanAssembly (338ms)
+		AnalyzeDomain (185ms)
+			BuildScriptInfoCaches (176ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1460ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (3ms)
+			BeforeProcessingInitializeOnLoad (177ms)
+			ProcessInitializeOnLoadAttributes (487ms)
+			ProcessInitializeOnLoadMethodAttributes (449ms)
+			AfterProcessingInitializeOnLoad (12ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 4.09 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7537 unused Assets / (6.9 MB). Loaded Objects now: 8523.
+Memory consumption went from 368.8 MB to 361.8 MB.
+Total: 18.291600 ms (FindLiveObjects: 1.811500 ms CreateObjectMapping: 1.030100 ms MarkObjects: 8.825600 ms  DeleteObjects: 6.162400 ms)
+
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T21:17:59.9718365Z
+  Time since last request: 118133.62325489999785 seconds.
+  importAddress: GUID: c5408bcba966f344b89d17cd4b8da38b - Path: Assets/Animations/NPC2/New Animator Override Controller.overrideController - Importer: PreviewImporter
+Importing 'GUID: c5408bcba966f344b89d17cd4b8da38b - Path: Assets/Animations/NPC2/New Animator Override Controller.overrideController - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: c5408bcba966f344b89d17cd4b8da38b' -> (Import Result ID: 'f051e9e138755066bb2ecc2553935f59') in 1.062 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=56875b74b9f199fcd990f631f51a3543 DependenciesID=f36aaed5f15767a2cb14e5c45b647116 StaticDependenciesID=b09bd49f6db3ef3d2918546ac216327c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T21:18:02.7283368Z
+  Time since last request: 1.3116608 seconds.
+  importAddress: GUID: b68b185c6a9323348bfd5942c69d5f1f - Path: Assets/Animations/NPC2/Npc2.controller - Importer: PreviewImporter
+Importing 'GUID: b68b185c6a9323348bfd5942c69d5f1f - Path: Assets/Animations/NPC2/Npc2.controller - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: b68b185c6a9323348bfd5942c69d5f1f' -> (Import Result ID: 'f1dd56eacfa17d15872ff81d69b24b60') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9e9a1402147c58fdbfd949d5d0768a67 DependenciesID=f9edc467a0673c7ac5d44f7d5ac45683 StaticDependenciesID=1bb9081f75b62df92ea53cc00fd218bf 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T21:18:08.1315127Z
+  Time since last request: 5.3673199 seconds.
+  importAddress: GUID: 65089ed3bb014c04cb013d0adc83d2c0 - Path: Assets/Animations/NPC1/New Animator Override Controller.overrideController - Importer: PreviewImporter
+Importing 'GUID: 65089ed3bb014c04cb013d0adc83d2c0 - Path: Assets/Animations/NPC1/New Animator Override Controller.overrideController - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 65089ed3bb014c04cb013d0adc83d2c0' -> (Import Result ID: '267d9118155dcf2ee6a9e8b256004d55') in 0.020 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7c25150de37f187e02e5f52c8cb82a84 DependenciesID=e772e4f7a43b054ecfbfa10669a650bc StaticDependenciesID=cb58e0329569fa4e2c3c976100eaabd6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T21:26:38.5435101Z
+  Time since last request: 510.3689948 seconds.
+  importAddress: GUID: ce2debd1eb75feb4d85c09e3cec3b99b - Path: Assets/Scripts/DeliveryCounter.cs - Importer: PreviewImporter
+Importing 'GUID: ce2debd1eb75feb4d85c09e3cec3b99b - Path: Assets/Scripts/DeliveryCounter.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: ce2debd1eb75feb4d85c09e3cec3b99b' -> (Import Result ID: 'be26eef6799d4a3e3a5a52e8f048a4b0') in 0.019 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=920a20a318e399d634080a68543186e9 DependenciesID=e45d5fa6c6341971c2a0b589b53e3738 StaticDependenciesID=4186cb7d315618723cc63ab7e4e80cce 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T21:31:24.7460394Z
+  Time since last request: 286.09514039999999 seconds.
+  importAddress: GUID: 8f586378b4e144a9851e7b34d9b748ee - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset - Importer: PreviewImporter
+Importing 'GUID: 8f586378b4e144a9851e7b34d9b748ee - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 8f586378b4e144a9851e7b34d9b748ee' -> (Import Result ID: '53f6910e530fc50ad5895978d0f56857') in 3.794 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=229fac8bb3b94cf63a8086e902779784 DependenciesID=a28760aeafe0ab665b892d8a7160ba1b StaticDependenciesID=903be5cf52d4a80c276d32951420acb1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 14.29 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 8665.
+Memory consumption went from 371.6 MB to 368.6 MB.
+Total: 1361.859100 ms (FindLiveObjects: 38.660100 ms CreateObjectMapping: 6.936900 ms MarkObjects: 1307.300400 ms  DeleteObjects: 6.125200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T22:52:16.1950343Z
+  Time since last request: 4847.75284720000036 seconds.
+  importAddress: GUID: 4be8879775df3994cb75cd1e80a434fa - Path: Assets/Scripts/NightSpawner.cs - Importer: PreviewImporter
+Importing 'GUID: 4be8879775df3994cb75cd1e80a434fa - Path: Assets/Scripts/NightSpawner.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 4be8879775df3994cb75cd1e80a434fa' -> (Import Result ID: '57fbd433d089b16672386072e8a46442') in 0.066 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dcd20ba95c736ff63032cec16e514650 DependenciesID=882cf9ef95f49f690680739cb2158438 StaticDependenciesID=7f32af2024c60adf4d89cbd601c06de1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 19.77 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.968 seconds
+Domain Reload Profiling: 8252ms
+	BeginReloadAssembly (2641ms)
+		ExecutionOrderSort (9ms)
+		DisableScriptedObjects (379ms)
+		ReleaseScriptingObjects (7ms)
+		CreateAndSetChildDomain (901ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (63ms)
+	initialDomainReloadingComplete (317ms)
+	LoadAllAssembliesAndSetupDomain (3226ms)
+		LoadAssemblies (2399ms)
+		TypeCache.Refresh (69ms)
+		AnalyzeDomain (696ms)
+			BuildScriptInfoCaches (657ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1970ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (22ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (335ms)
+			ProcessInitializeOnLoadAttributes (703ms)
+			ProcessInitializeOnLoadMethodAttributes (221ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (8ms)
+		AwakeInstancesAfterBackupRestoration (55ms)
+Refreshing native plugins compatible for Editor in 9.04 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7535 unused Assets / (8.0 MB). Loaded Objects now: 8594.
+Memory consumption went from 376.6 MB to 368.6 MB.
+Total: 18.994000 ms (FindLiveObjects: 1.482800 ms CreateObjectMapping: 0.905300 ms MarkObjects: 11.835900 ms  DeleteObjects: 4.354300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:09:19.3103271Z
+  Time since last request: 1022.98055520000003 seconds.
+  importAddress: GUID: 63e0729810796b742b2a23b5b8651de9 - Path: Assets/Scripts/CustomerNPC.cs - Importer: PreviewImporter
+Importing 'GUID: 63e0729810796b742b2a23b5b8651de9 - Path: Assets/Scripts/CustomerNPC.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 63e0729810796b742b2a23b5b8651de9' -> (Import Result ID: '72c22d6cd453a51d0918672cd3a08c19') in 0.160 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d410a07e2e9fd8a749492321abc66519 DependenciesID=b4884a32ade6af8b1d397ae2f39e1d98 StaticDependenciesID=476587dd427220f644f91cfd1975830f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:12:03.6880833Z
+  Time since last request: 164.06396100000001 seconds.
+  importAddress: GUID: 4be8879775df3994cb75cd1e80a434fa - Path: Assets/Scripts/NightSpawner.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 4be8879775df3994cb75cd1e80a434fa - Path: Assets/Scripts/NightSpawner.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 4be8879775df3994cb75cd1e80a434fa' -> (Import Result ID: 'd8c96db00845e6f44ec0a07110e39667') in 1.397 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0e527d7b7e12c358b43fe6d204129d9f DependenciesID=666d4053462f4f679bbefef2f9f533db StaticDependenciesID=cce561c703676c1679f9505bf811e22f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 7.24 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 25 unused Assets / (2.9 MB). Loaded Objects now: 8594.
+Memory consumption went from 368.5 MB to 365.6 MB.
+Total: 72.183400 ms (FindLiveObjects: 5.572200 ms CreateObjectMapping: 3.250900 ms MarkObjects: 60.933600 ms  DeleteObjects: 1.789500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:13:17.1960635Z
+  Time since last request: 72.0396914 seconds.
+  importAddress: GUID: e00bebb379fcbaf4ebc830fa23648fdc - Path: Assets/Scripts/New Actions.inputactions - Importer: PreviewImporter
+Importing 'GUID: e00bebb379fcbaf4ebc830fa23648fdc - Path: Assets/Scripts/New Actions.inputactions - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: e00bebb379fcbaf4ebc830fa23648fdc' -> (Import Result ID: 'ac20e3dd4c4bfb6f761f5a76bb4147d2') in 0.213 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9b6442569b8d5caae43d4d5b0db2de42 DependenciesID=a1d96296f97719202c8fd27731e7d0f0 StaticDependenciesID=758a7803c2a071a8ea77e677451dbe5d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:13:22.044617Z
+  Time since last request: 4.6008121 seconds.
+  importAddress: GUID: e00bebb379fcbaf4ebc830fa23648fdc - Path: Assets/Scripts/New Actions.inputactions - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: e00bebb379fcbaf4ebc830fa23648fdc - Path: Assets/Scripts/New Actions.inputactions - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: e00bebb379fcbaf4ebc830fa23648fdc' -> (Import Result ID: '25a65d79f88de7be09e0b46affd9a62d') in 0.119 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c04e9deb934cddc8b96ed950b3a89e28 DependenciesID=aa3ae047d1ff6da28063f2da3693f366 StaticDependenciesID=1c18991c1e16e8b5aaab7ed8461b8a38 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 46.83 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7521 unused Assets / (8.0 MB). Loaded Objects now: 8595.
+Memory consumption went from 373.9 MB to 365.9 MB.
+Total: 85.926000 ms (FindLiveObjects: 4.032300 ms CreateObjectMapping: 6.596000 ms MarkObjects: 64.298100 ms  DeleteObjects: 9.913400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:09.0706981Z
+  Time since last request: 46.8861914 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/NewMonoBehaviourScript.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/NewMonoBehaviourScript.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: 'a1018b877f5d0c582704bfcb87662ca5') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bb7d68c94209ab8ea45569b4e33eacd3 DependenciesID=3f02d4edda7bc1d3b01e89531ce9e677 StaticDependenciesID=05d597915f18841d1e3f64398f3b3a5e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 10.28 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  2.825 seconds
+Domain Reload Profiling: 8916ms
+	BeginReloadAssembly (2144ms)
+		DisableScriptedObjects (268ms)
+		ReleaseScriptingObjects (3ms)
+		CreateAndSetChildDomain (814ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (51ms)
+	initialDomainReloadingComplete (502ms)
+	LoadAllAssembliesAndSetupDomain (3369ms)
+		LoadAssemblies (2781ms)
+		TypeCache.Refresh (68ms)
+		AnalyzeDomain (638ms)
+			BuildScriptInfoCaches (598ms)
+			ResolveRequiredComponents (24ms)
+	FinalizeReload (2828ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (5ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			BeforeProcessingInitializeOnLoad (522ms)
+			ProcessInitializeOnLoadAttributes (931ms)
+			ProcessInitializeOnLoadMethodAttributes (256ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (6ms)
+		AwakeInstancesAfterBackupRestoration (72ms)
+Refreshing native plugins compatible for Editor in 11.30 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7536 unused Assets / (6.8 MB). Loaded Objects now: 8598.
+Memory consumption went from 376.8 MB to 370.0 MB.
+Total: 35.669800 ms (FindLiveObjects: 7.330800 ms CreateObjectMapping: 2.147000 ms MarkObjects: 16.958000 ms  DeleteObjects: 6.952400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:46.5564425Z
+  Time since last request: 37.4240115 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/NewMonoBehaviourScript.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/NewMonoBehaviourScript.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '03208fca98295d7a37daaf10fcc9a1de') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=3242e9659d5a0e490bf80fc004e72f1b StaticDependenciesID=6b33ae6dc40d969d4d224b624d9320fb 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 5.33 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7521 unused Assets / (7.8 MB). Loaded Objects now: 8598.
+Memory consumption went from 376.9 MB to 369.1 MB.
+Total: 24.231800 ms (FindLiveObjects: 3.307500 ms CreateObjectMapping: 2.578400 ms MarkObjects: 11.512400 ms  DeleteObjects: 6.174100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:49.4699894Z
+  Time since last request: 2.8568708 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: 'd718c96f17bf8696730cbd065c011a9e') in 0.703 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f10977e26c0cd784169fae1c4f5665b8 DependenciesID=e0dbe775118a5d2235e909bf80e894ba StaticDependenciesID=1b80179caf417136c6ac749c6bb647ef 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.2626064Z
+  Time since last request: 0.0385438 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.3463343Z
+  Time since last request: 0.0227893 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.421831Z
+  Time since last request: 0.0197966 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.4943019Z
+  Time since last request: 0.0388003 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.5612045Z
+  Time since last request: 0.0055476 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.6309447Z
+  Time since last request: 0.0148086 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.6986332Z
+  Time since last request: 0.0024551 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.7825463Z
+  Time since last request: 0.0269859 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.8282172Z
+  Time since last request: 0.0085617 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.8773648Z
+  Time since last request: 0.0209012 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.9302495Z
+  Time since last request: 0.0076603 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:50.9978435Z
+  Time since last request: 0.0146006 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.0696466Z
+  Time since last request: 0.0128209 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.1229285Z
+  Time since last request: 0.0078215 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.1987177Z
+  Time since last request: 0.028872 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.2667321Z
+  Time since last request: 0.006908 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.336503Z
+  Time since last request: 0.0163013 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.3925042Z
+  Time since last request: 0.00171 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.4656334Z
+  Time since last request: 0.0301254 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.5298908Z
+  Time since last request: 0.0137734 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.8653589Z
+  Time since last request: 0.2922162 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.027 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:51.9877355Z
+  Time since last request: 0.0033682 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:52.0996998Z
+  Time since last request: 0.0337144 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:52.1960087Z
+  Time since last request: 0.0290589 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:52.3345744Z
+  Time since last request: 0.014597 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:52.3997847Z
+  Time since last request: 0.0178271 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:52.5173727Z
+  Time since last request: 0.0199111 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:52.7037407Z
+  Time since last request: 0.0346454 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:52.7838552Z
+  Time since last request: 0.0059913 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:52.9064242Z
+  Time since last request: 0.0182662 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:52.9770045Z
+  Time since last request: 0.015733 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.0636746Z
+  Time since last request: 0.0122307 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.1637833Z
+  Time since last request: 0.0570229 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.2673158Z
+  Time since last request: 0.0171817 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.3139246Z
+  Time since last request: 0.0082883 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.3647606Z
+  Time since last request: 0.0028318 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.4193166Z
+  Time since last request: 0.0179594 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.4695565Z
+  Time since last request: 0.0099182 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.5299344Z
+  Time since last request: 0.0248187 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.5801625Z
+  Time since last request: 0.0047512 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.6714378Z
+  Time since last request: 0.0522366 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.7172518Z
+  Time since last request: 0.0118264 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.7686398Z
+  Time since last request: 0.014217 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.8139027Z
+  Time since last request: 0.0056027 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.8631675Z
+  Time since last request: 0.0155772 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.9148816Z
+  Time since last request: 0.011155 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:53.980835Z
+  Time since last request: 0.0120877 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.0325425Z
+  Time since last request: 0.0145064 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.0826178Z
+  Time since last request: 0.0034808 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.1544791Z
+  Time since last request: 0.0343866 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.2147623Z
+  Time since last request: 0.0128369 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.2680439Z
+  Time since last request: 0.0077043 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.3322724Z
+  Time since last request: 0.0234285 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.4000576Z
+  Time since last request: 0.0173812 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.5075495Z
+  Time since last request: 0.0424402 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.5779179Z
+  Time since last request: 0.0110877 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.6378193Z
+  Time since last request: 0.0185235 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.7161702Z
+  Time since last request: 0.0366157 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.7851187Z
+  Time since last request: 0.0274313 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.859355Z
+  Time since last request: 0.0207919 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.9182436Z
+  Time since last request: 0.0190088 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:54.9934155Z
+  Time since last request: 0.0244252 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:55.0632748Z
+  Time since last request: 0.0305052 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:55.1193513Z
+  Time since last request: 0.021138 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:55.1616319Z
+  Time since last request: 0.014963 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:55.2085179Z
+  Time since last request: 0.0021845 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-11-21T23:14:55.2719516Z
+  Time since last request: 0.0330578 seconds.
+  importAddress: GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter
+Importing 'GUID: fab885ddc074620428c05bcb0ff5e0e0 - Path: Assets/Scripts/MorningTutorial.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: fab885ddc074620428c05bcb0ff5e0e0' -> (Import Result ID: '281993614d1037636d082335bf1bab4c') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2f7b95a5d6b1d4048bf1b4d0a5ce66a0 DependenciesID=fbda743f6cf7070a377d4b015db23d2c StaticDependenciesID=997e4f193fbb9091ca2fbf4de6d06487 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 27.45 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  2.998 seconds
+Domain Reload Profiling: 7930ms
+	BeginReloadAssembly (1304ms)
+		DisableScriptedObjects (139ms)
+		CreateAndSetChildDomain (407ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (35ms)
+	initialDomainReloadingComplete (221ms)
+	LoadAllAssembliesAndSetupDomain (3340ms)
+		LoadAssemblies (1954ms)
+		TypeCache.Refresh (105ms)
+			TypeCache.ScanAssembly (4ms)
+		AnalyzeDomain (695ms)
+			BuildScriptInfoCaches (671ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (3004ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (28ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			BeforeProcessingInitializeOnLoad (558ms)
+			ProcessInitializeOnLoadAttributes (828ms)
+			ProcessInitializeOnLoadMethodAttributes (251ms)
+			AfterProcessingInitializeOnLoad (19ms)
+			EditorAssembliesLoaded (5ms)
+		AwakeInstancesAfterBackupRestoration (68ms)
+Refreshing native plugins compatible for Editor in 12.33 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7536 unused Assets / (6.8 MB). Loaded Objects now: 8601.
+Memory consumption went from 377.7 MB to 370.8 MB.
+Total: 47.142100 ms (FindLiveObjects: 6.320900 ms CreateObjectMapping: 4.053200 ms MarkObjects: 24.975600 ms  DeleteObjects: 10.843300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 22.94 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7521 unused Assets / (5.6 MB). Loaded Objects now: 8601.
+Memory consumption went from 380.8 MB to 375.2 MB.
+Total: 138.557200 ms (FindLiveObjects: 8.661100 ms CreateObjectMapping: 8.878700 ms MarkObjects: 87.447000 ms  DeleteObjects: 31.621600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 23.25 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  2.308 seconds
+Domain Reload Profiling: 8637ms
+	BeginReloadAssembly (2141ms)
+		ExecutionOrderSort (3ms)
+		DisableScriptedObjects (229ms)
+		ReleaseScriptingObjects (4ms)
+		CreateAndSetChildDomain (777ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (40ms)
+	initialDomainReloadingComplete (351ms)
+	LoadAllAssembliesAndSetupDomain (3769ms)
+		LoadAssemblies (2919ms)
+		TypeCache.Refresh (64ms)
+			TypeCache.ScanAssembly (4ms)
+		AnalyzeDomain (731ms)
+			BuildScriptInfoCaches (704ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (2310ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (6ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			BeforeProcessingInitializeOnLoad (365ms)
+			ProcessInitializeOnLoadAttributes (880ms)
+			ProcessInitializeOnLoadMethodAttributes (213ms)
+			AfterProcessingInitializeOnLoad (26ms)
+			EditorAssembliesLoaded (9ms)
+		AwakeInstancesAfterBackupRestoration (65ms)
+Refreshing native plugins compatible for Editor in 9.18 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7536 unused Assets / (7.9 MB). Loaded Objects now: 8604.
+Memory consumption went from 386.9 MB to 379.1 MB.
+Total: 57.097500 ms (FindLiveObjects: 3.882800 ms CreateObjectMapping: 4.420400 ms MarkObjects: 37.332700 ms  DeleteObjects: 9.754700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 18.56 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (3.0 MB). Loaded Objects now: 8604.
+Memory consumption went from 384.7 MB to 381.7 MB.
+Total: 833.853100 ms (FindLiveObjects: 20.936300 ms CreateObjectMapping: 3.853200 ms MarkObjects: 799.585000 ms  DeleteObjects: 5.262100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 26.98 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.869 seconds
+Domain Reload Profiling: 9289ms
+	BeginReloadAssembly (3332ms)
+		ExecutionOrderSort (14ms)
+		DisableScriptedObjects (586ms)
+		ReleaseScriptingObjects (8ms)
+		CreateAndSetChildDomain (924ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (47ms)
+	initialDomainReloadingComplete (544ms)
+	LoadAllAssembliesAndSetupDomain (3462ms)
+		LoadAssemblies (2772ms)
+		TypeCache.Refresh (107ms)
+			TypeCache.ScanAssembly (3ms)
+		AnalyzeDomain (812ms)
+			BuildScriptInfoCaches (773ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1871ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (6ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			BeforeProcessingInitializeOnLoad (277ms)
+			ProcessInitializeOnLoadAttributes (662ms)
+			ProcessInitializeOnLoadMethodAttributes (229ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (5ms)
+		AwakeInstancesAfterBackupRestoration (64ms)
+Refreshing native plugins compatible for Editor in 11.81 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7536 unused Assets / (7.0 MB). Loaded Objects now: 8607.
+Memory consumption went from 396.5 MB to 389.5 MB.
+Total: 44.048000 ms (FindLiveObjects: 4.295800 ms CreateObjectMapping: 4.435900 ms MarkObjects: 24.763600 ms  DeleteObjects: 9.613100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 7.91 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 8607.
+Memory consumption went from 394.3 MB to 391.4 MB.
+Total: 162.812000 ms (FindLiveObjects: 4.913700 ms CreateObjectMapping: 1.624400 ms MarkObjects: 153.700700 ms  DeleteObjects: 1.777300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Editor is closing down
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0

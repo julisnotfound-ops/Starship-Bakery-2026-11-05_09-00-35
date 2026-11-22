@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: a0843886752bef34896f9d5204ef3ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6300552543572091252
+    second: "Npc ennisjack bal\xE3o_0"
+  - first:
+      213: -7290581097288922156
+    second: "Npc ennisjack bal\xE3o_1"
+  - first:
+      213: -3977162850388016127
+    second: "Npc ennisjack bal\xE3o_2"
+  - first:
+      213: 4776901730979003980
+    second: "Npc ennisjack bal\xE3o_3"
+  - first:
+      213: -2636001666745321929
+    second: "Npc ennisjack bal\xE3o_4"
+  - first:
+      213: 5248980643821427055
+    second: "Npc ennisjack bal\xE3o_5"
+  - first:
+      213: -7169444905309101838
+    second: "Npc ennisjack bal\xE3o_6"
+  - first:
+      213: 4685417559036689282
+    second: "Npc ennisjack bal\xE3o_7"
+  - first:
+      213: 60664245165432377
+    second: "Npc ennisjack bal\xE3o_8"
+  - first:
+      213: 5719108398328457599
+    second: "Npc ennisjack bal\xE3o_9"
+  - first:
+      213: 4625208445621824492
+    second: "Npc ennisjack bal\xE3o_10"
+  - first:
+      213: 1530138347183600686
+    second: "Npc ennisjack bal\xE3o_11"
+  - first:
+      213: -5495631413113777316
+    second: "Npc ennisjack bal\xE3o_12"
+  - first:
+      213: 5926048709274810433
+    second: "Npc ennisjack bal\xE3o_13"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_0"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1359
+        width: 308
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4716c48182f007750800000000000000
+      internalID: 6300552543572091252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_1"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1357
+        width: 308
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db8ae18e17a2da90800000000000000
+      internalID: -7290581097288922156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_2"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1363
+        width: 308
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1040eb0a5774ec8c0800000000000000
+      internalID: -3977162850388016127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_3"
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1356
+        width: 308
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eb3f1b0d6fa4240800000000000000
+      internalID: 4776901730979003980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_4"
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1362
+        width: 308
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736be42437a0b6bd0800000000000000
+      internalID: -2636001666745321929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_5"
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 162
+        width: 1257
+        height: 1644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6990e3d51028d840800000000000000
+      internalID: 5248980643821427055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_6"
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 171
+        width: 1257
+        height: 1644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0215e08d3018c90800000000000000
+      internalID: -7169444905309101838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_7"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 869
+        width: 308
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b72ce0272f50140800000000000000
+      internalID: 4685417559036689282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_8"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 867
+        width: 308
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e17af3fc587d000800000000000000
+      internalID: 60664245165432377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_9"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 873
+        width: 308
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79225289ca5e5f40800000000000000
+      internalID: 5719108398328457599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_10"
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 870
+        width: 308
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebec6d639a003040800000000000000
+      internalID: 4625208445621824492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_11"
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 876
+        width: 308
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24f41148b42c3510800000000000000
+      internalID: 1530138347183600686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_12"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 468
+        width: 446
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5310ecc8589bb3b0800000000000000
+      internalID: -5495631413113777316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Npc ennisjack bal\xE3o_13"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 125
+        width: 923
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 5}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148bcfd47ed8d3250800000000000000
+      internalID: 5926048709274810433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dbb4ee807b730b5479073db2ba6d5a24
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Npc ennisjack bal\xE3o_0": 6300552543572091252
+      "Npc ennisjack bal\xE3o_1": -7290581097288922156
+      "Npc ennisjack bal\xE3o_10": 4625208445621824492
+      "Npc ennisjack bal\xE3o_11": 1530138347183600686
+      "Npc ennisjack bal\xE3o_12": -5495631413113777316
+      "Npc ennisjack bal\xE3o_13": 5926048709274810433
+      "Npc ennisjack bal\xE3o_2": -3977162850388016127
+      "Npc ennisjack bal\xE3o_3": 4776901730979003980
+      "Npc ennisjack bal\xE3o_4": -2636001666745321929
+      "Npc ennisjack bal\xE3o_5": 5248980643821427055
+      "Npc ennisjack bal\xE3o_6": -7169444905309101838
+      "Npc ennisjack bal\xE3o_7": 4685417559036689282
+      "Npc ennisjack bal\xE3o_8": 60664245165432377
+      "Npc ennisjack bal\xE3o_9": 5719108398328457599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
